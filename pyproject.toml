@@ -1,0 +1,17 @@
+[project]
+name = "Vantage-DreamOmni2"
+description = "	Vantage-DreamOmni2 brings Qwen2.5-VL’s multimodal intelligence to ComfyUI, enabling unified text–image understanding for both generation and editing. Create context-aware prompts, perform reference-based visual edits, and build adaptive image grids — all with high consistency, abstraction, and creative control."
+version = "0.1.0"
+license = {file = "LICENSE"}
+
+classifiers = ["Environment :: GPU :: NVIDIA CUDA"]
+
+[project.urls]
+Repository = "https://github.com/vantagewithai/Vantage-DreamOmni2"
+"Bug Tracker" = "https://github.com/vantagewithai/Vantage-DreamOmni2/issues"
+
+[tool.comfy]
+PublisherId = "vantagewithai"
+DisplayName = "Vantage-DreamOmni2"
+Icon = ""
+

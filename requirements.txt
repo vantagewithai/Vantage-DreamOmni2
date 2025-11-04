@@ -1,0 +1,7 @@
+bitsandbytes
+accelerate
+sentencepiece
+safetensors
+einops
+numpy
+

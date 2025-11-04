@@ -107,9 +107,9 @@ numpy
 
 ## 🪄 Credits
 
-Developed by **[Vantage with AI](https://www.youtube.com/@vantagewithai)**
-Powered by **DreamOmni2** from [DreamOmni Team](https://pbihao.github.io/projects/DreamOmni2/index.html)
-Powered by **Qwen2.5-VL** from [Alibaba Cloud / Qwen Team](https://huggingface.co/Qwen)
+- Developed by **[Vantage with AI](https://www.youtube.com/@vantagewithai)**
+- Powered by **DreamOmni2** from [DreamOmni Team](https://pbihao.github.io/projects/DreamOmni2/index.html)
+- Powered by **Qwen2.5-VL** from [Alibaba Cloud / Qwen Team](https://huggingface.co/Qwen)
 
 ---
 
